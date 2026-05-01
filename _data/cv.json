@@ -1,152 +1,155 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Chau Tuan Do",
+    "email": "tuanb2610@gmail.com",
+    "phone": "+84 862 197 203",
+    "website": "https://chautuando.github.io",
+    "summary": "Applied Mathematics graduate with a strong background in stochastic processes and numerical methods. Incoming Master's student at University Paris Dauphine - PSL. Expert in developing probabilistic models and machine learning systems.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Hanoi",
+      "countryCode": "VN",
       "region": ""
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
-      },
-      {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "tuancompa2610",
+        "url": "https://github.com/tuancompa2610"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Tuan Do",
+        "url": "https://www.linkedin.com/in/tuan-do-math/"
       }
     ]
   },
-  "work": [],
-  "education": [
+  "work": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "company": "FiinGroup Joint Stock Company",
+      "position": "Middle Credit Risk Modeling",
+      "website": "https://fiingroup.vn/",
+      "startDate": "2025-05-01",
+      "endDate": "",
+      "summary": "Developed and validated credit risk models for Forward-Looking PD term structure. Developed an AI-Driven Business Intelligence Search & Recommendation System.",
+      "highlights": [
+        "Implemented Survival Analysis (CoxPH, Gradient Boosting Survival, Kaplan-Meier) and Markov Chain approach.",
+        "Created a crawling financial news system that autonomously extracts organization info."
+      ]
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "company": "BKK - Budapesti Közlekedési Központ",
+      "position": "Data Scientist Intern",
+      "website": "https://bkk.hu/en/",
+      "startDate": "2023-09-01",
+      "endDate": "2024-01-01",
+      "summary": "Implemented machine learning and deep learning models to predict bike sharing demand.",
+      "highlights": [
+        "Developed a dashboard using GeoPandas, OSMnx, and NetworkX to visualize traffic network in Budapest."
+      ]
     }
   ],
-  "skills": [],
+  "education": [
+    {
+      "institution": "University of Paris Dauphine – PSL",
+      "area": "Master 1 Mathematics and Applications, major in Advanced Mathematics",
+      "studyType": "Master",
+      "startDate": "2026-09-01",
+      "endDate": "",
+      "gpa": "",
+      "courses": [
+        "PGSM Scholarship: Prestigious merit-based scholarship granted by FSMP."
+      ]
+    },
+    {
+      "institution": "WorldQuant University",
+      "area": "MSc in Financial Engineering",
+      "studyType": "Master",
+      "startDate": "2025-04-01",
+      "endDate": "",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Budapest University of Technology and Economics",
+      "area": "BSc in Mathematics, Specialization in Stochastic Processes",
+      "studyType": "Bachelor",
+      "startDate": "2022-09-01",
+      "endDate": "2025-01-01",
+      "gpa": "4.68/5.0",
+      "courses": [
+        "Valedictorian of the faculty.",
+        "Thesis grade: 5.0/5.0. Special Award at BME Student Scientific Conference (TDK)."
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming",
+      "level": "Expert",
+      "keywords": ["Python", "R", "C++", "MATLAB", "SQL", "LaTeX"]
+    },
+    {
+      "name": "Machine Learning & AI",
+      "level": "Advanced",
+      "keywords": ["TensorFlow", "Keras", "Scikit-learn", "LangChain", "LLMs", "Statsmodel", "Optuna"]
+    },
+    {
+      "name": "Data Engineering & Tools",
+      "level": "Advanced",
+      "keywords": ["MySQL", "SQLAlchemy", "Git", "GCP", "Docker", "Selenium", "BeautifulSoup", "Streamlit"]
+    },
+    {
+      "name": "Languages",
+      "level": "",
+      "keywords": ["Vietnamese (Native)", "English (Professional)", "French (A2)", "Hungarian (A2)"]
+    }
+  ],
   "languages": [],
   "interests": [],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "A Modified SIS Epidemic Model with Application to Health Insurance Pricing",
+      "publisher": "arXiv:2601.02168 [math.DS], submitted to São Paulo Journal of Mathematical Sciences",
+      "releaseDate": "2026-01-01",
+      "website": "https://arxiv.org/abs/2601.02168",
+      "summary": "Investigated a modified version of the classical SIS model, performed dynamical analysis and numerical simulation."
     }
   ],
   "presentations": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
+      "name": "School on Dimension Theory of Fractals",
+      "event": "Alfréd Rényi Institute of Mathematics",
+      "date": "2024-08-01",
+      "location": "Budapest, Hungary",
       "description": ""
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
+      "name": "School: Optimal Transport on Quantum Structures",
+      "event": "Alfréd Rényi Institute of Mathematics",
+      "date": "2022-09-01",
+      "location": "Budapest, Hungary",
       "description": ""
     }
   ],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "course": "Mathematics Modeling Vietnam",
+      "institution": "Vietnam",
+      "date": "2022-2024",
+      "role": "Scientific Researcher & Academic Mentor",
+      "description": "Participated in MCM, mentored and held training sessions for competitors."
     }
   ],
   "portfolio": [
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "name": "Cryptocurrency Prediction Based on Social Media",
+      "category": "Project",
+      "date": "2024-11-01",
+      "url": "https://github.com/tuancompa2610",
+      "description": "Scraped 40,000+ news articles, implemented Transformer-based models for sentiment analysis, and developed time-series forecasting models."
     }
   ]
 }
