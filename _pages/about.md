@@ -19,14 +19,3 @@ My research interests include: neural network for PDE, markov chains mixing time
 * **Financial Engineering**: Credit risk modeling, 
 * **AI & Machine Learning**: LLMs, Graph Neural Networks, and Natural Language Processing. -->
 
-Education
-======
-* **M1 Mathématiques et Applications, majored in Advanced Mathematics**, Université Paris Dauphine - PSL (Upcoming Sep 2026)
-* **BSc in Mathematics**, Budapest University of Technology and Economics (2022 - 2025)
-
-Experience
-======
-* **Middle Credit Risk Modeling**, FiinGroup Joint Stock Company (2025 - Present)
-* **Research Fellow**, Vietnam Institute of Advanced Study in Mathematics - VIASM (2025)
-* **Research Fellow**, Vietnam Academy of Science and Technology - VAST (2025)
-* **Data Scientist Intern**, BKK - Budapesti Közlekedési Központ (2023 - 2024)
