@@ -88,22 +88,51 @@
     {
       "name": "Programming",
       "level": "Expert",
-      "keywords": ["Python", "R", "C++", "MATLAB", "SQL", "LaTeX"]
+      "keywords": [
+        "Python",
+        "R",
+        "C++",
+        "MATLAB",
+        "SQL",
+        "LaTeX"
+      ]
     },
     {
       "name": "Machine Learning & AI",
       "level": "Advanced",
-      "keywords": ["TensorFlow", "Keras", "Scikit-learn", "LangChain", "LLMs", "Statsmodel", "Optuna"]
+      "keywords": [
+        "TensorFlow",
+        "Keras",
+        "Scikit-learn",
+        "LangChain",
+        "LLMs",
+        "Statsmodel",
+        "Optuna"
+      ]
     },
     {
       "name": "Data Engineering & Tools",
       "level": "Advanced",
-      "keywords": ["MySQL", "SQLAlchemy", "Git", "GCP", "Docker", "Selenium", "BeautifulSoup", "Streamlit"]
+      "keywords": [
+        "MySQL",
+        "SQLAlchemy",
+        "Git",
+        "GCP",
+        "Docker",
+        "Selenium",
+        "BeautifulSoup",
+        "Streamlit"
+      ]
     },
     {
       "name": "Languages",
       "level": "",
-      "keywords": ["Vietnamese (Native)", "English (Professional)", "French (A2)", "Hungarian (A2)"]
+      "keywords": [
+        "Vietnamese (Native)",
+        "English (Professional)",
+        "French (A2)",
+        "Hungarian (A2)"
+      ]
     }
   ],
   "languages": [],
