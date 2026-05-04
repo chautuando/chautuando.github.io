@@ -1,8 +1,8 @@
 ---
 title: "School: Optimal Transport on Quantum Structures"
-collection: talks
+collection: conferences
 type: "School"
-permalink: /talks/2022-09-01-optimal-transport-quantum
+permalink: /conferences/2022-09-01-optimal-transport-quantum
 venue: "Alfréd Rényi Institute of Mathematics"
 date: 2022-09-01
 location: "Budapest, Hungary"

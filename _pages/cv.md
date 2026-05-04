@@ -6,6 +6,9 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+<div class="cv-download-links">
+  <a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary">Detailed CV</a>
+</div>
 
 {% include base_path %}
 
@@ -13,11 +16,9 @@ Education
 ======
 * **M1 Mathématiques et Applications, majored in Advanced Mathematics**, [Université Paris Dauphine - PSL](https://dauphine.psl.eu/en/) (Upcoming Sep 2026)
 * **MSc in Financial Engineering**, [WorldQuant University](https://www.wqu.edu/) (Apr 2025 - Present) 
-* **BSc in Mathematics**, [Budapest University of Technology and Economics](https://www.bme.hu/) (Sep 2022 - Jan 2025) with excellent degree where I was co-advised by Professor [Roland Molontay](https://math.bme.hu/~molontay/eng.html) and Professor [Marcell Nagy](https://math.bme.hu/~marcessz/en)
+* **BSc in Mathematics**, [Budapest University of Technology and Economics](https://www.bme.hu/) (Sep 2022 - Jan 2025), where I was co-advised by Professor [Roland Molontay](https://math.bme.hu/~molontay/eng.html) and Professor [Marcell Nagy](https://math.bme.hu/~marcessz/en)
 
-<div class="cv-download-links">
-  <a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary">Detailed CV</a>
-</div>
+
 
 Research Experiences
 ==========

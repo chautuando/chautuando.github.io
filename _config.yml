@@ -23,7 +23,7 @@ repository               : "chautuando/chautuando.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Chau Tuan Do"
   pronouns         : # example: "she/her"  
   bio              : "Applied Mathematics graduate specializing in stochastic processes and numerical methods. Incoming Master's student at University Paris Dauphine - PSL."
@@ -230,7 +230,7 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
+  conferences:
     output: true
     permalink: /:collection/:path/
 
@@ -282,10 +282,10 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _conferences
   - scope:
       path: ""
-      type: talks
+      type: conferences
     values:
       layout: talk
       author_profile: true
