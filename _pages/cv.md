@@ -35,7 +35,6 @@ Honours and Scholarships
 * **Valedictorian and the first in history to complete the program a semester earlier than expected**, Budapest University of Technology and Economics, 2025
 * **Special Prize**, BME Student Scientific Conference, 2024
 * **Stipendium Hungaricum Excellence Award**, Tempus Public Foundation, 2023 & 2024
-
 Awarded to top 3 students from each institution for outstanding academic performance and 
 their contribution to the development of the international Stipendium Hungaricum community.
 * **Budapest Scholarship Research Program**, Municipality of Budapest, 2023 

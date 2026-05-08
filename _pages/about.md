@@ -13,6 +13,6 @@ Previously, I obtained my Bachelor's degree in Mathematics with Excellent degree
 
 Currently, I work at [**FiinGroup Joint Stock Company**](https://fiingroup.vn/en) as a Credit Risk Modeling specialist. Previously, I was a Data Scientist Intern at [**Budapesti Közlekedési Központ - BKK (Budapest Transport Center)**](https://www.bkk.hu/).
 
-My research interests include: Mathematical Finance, Stochastic Processes, Mixing times in Markov chains, Stochastic Control, Neural Networks for solving Partial Differential Equations (PDEs), and Reinforcement Learning.
+My research interests include Mathematical Finance, Stochastic Processes, Mixing times in Markov chains, Stochastic Control, Neural Networks for solving Partial Differential Equations (PDEs), and Reinforcement Learning.
 
 I am always open to new collaborations and discussions. Feel free to reach out if you share similar interests or would like to discuss potential research opportunities.
